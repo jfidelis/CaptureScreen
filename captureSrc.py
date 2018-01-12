@@ -1,12 +1,4 @@
-#
-# Take screenshot of screen
-# Usage <delay in seconds> <filename>
-#
-# delay should be a valid number
-# filename should not have an extension as it will be saved as a png
-
-# Python 2.7
-#
+#! Python 3
 
 import wx
 import time
